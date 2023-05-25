@@ -8,3 +8,13 @@
 
 #### Example output:
 * `{"ipaddress":"159.20.14.100","language":"en-US,en;q=0.5","software":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0"}`
+
+#### Project Setup
+
+#### Project Setup
+
+#### Test 1 - Your IP address should be returned in the ipaddress key
+
+#### Test 2 - Your preferred language should be returned in the language key
+
+#### Test 3 - Your software should be returned in the software key
